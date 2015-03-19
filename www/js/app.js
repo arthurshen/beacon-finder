@@ -5,7 +5,7 @@ var app = (function()
 	var app = {};
 
 	// Application data.
-	app.currentScreenId = null;
+	app.currentScreenId = B9407F30F5F8466EAFF925556B57FE6D;
 	app.beaconColorStyles = [
 		'style-color-unknown style-color-unknown-text',
 		'style-color-mint style-color-mint-text',
